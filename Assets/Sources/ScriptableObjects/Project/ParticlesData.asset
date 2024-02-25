@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0903fbb5f1277dd4fb83a7150b517761, type: 3}
+  m_Name: ParticlesData
+  m_EditorClassIdentifier: 
+  particlesData:
+  - particleName: 0
+    particleObj: {fileID: 5433668015389031062, guid: 8598a7afb4731b54f93670a19f5bf9e9, type: 3}
+    scale: 0.7
+  - particleName: 1
+    particleObj: {fileID: 5882397312370762177, guid: 83b6cde0a26ceb742bd39e74332ec6e7, type: 3}
+    scale: 0.5
+  - particleName: 2
+    particleObj: {fileID: 5882397312370762177, guid: 361324e1b875fdb45be06d1b5b6de242, type: 3}
+    scale: 0.7
+  - particleName: 3
+    particleObj: {fileID: 5882397312370762177, guid: f69fbce78f411414b824a35623ee879b, type: 3}
+    scale: 0.7
+  - particleName: 4
+    particleObj: {fileID: 7957623564025565697, guid: 75587350e243c6a4bbc10f79c2b5e48c, type: 3}
+    scale: 0.5
